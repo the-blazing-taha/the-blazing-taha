@@ -1,5 +1,5 @@
 <h1 align="center">Hola Amigo 👋, Myself Taha</h1>
-<h3 align="center">A passionate mobile and web application developer from Pakistan.</h3>
+<h3 align="center">📱 A passionate mobile and web application developer from Pakistan.</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on AI-enabled Blood Donation Mobile application.<br>🤝 I’m looking for help with Mobile applications<br>🌱 I’m currently learning Java and Kotlin.<br>💬 Ask me about Mobile and web applications.<br>⚡ My colleagues are common people but my friends are extremely rare people.<br>
