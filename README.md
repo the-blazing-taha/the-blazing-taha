@@ -2,7 +2,7 @@
 <h3 align="center">📱 A passionate mobile and web application developer from Pakistan.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on AI-enabled Blood Donation Mobile application.<br>🤝 I’m looking for help with Mobile applications<br>🌱 I’m currently learning Java and Kotlin.<br>💬 Ask me about Mobile and web applications.<br>⚡ My colleagues are common people but my friends are extremely rare people.<br>
+🔭 I’m recently worked on an AI-enabled Blood Donation Mobile application to solve the problem of timely blood donation in Pakistan.<br>🤝 I’m looking for help with Mobile applications<br>🌱 I’m currently learning Java and Kotlin.<br>💬 Ask me about Mobile and web applications.<br>⚡ My colleagues are common people but my friends are extremely rare people.<br>
 
 
 ## 🌐 Socials:
